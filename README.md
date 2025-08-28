@@ -1,4 +1,4 @@
-# Site acessível sobre o Egito Antigo
+# Site acessível sobre o Kitkat
 ## Sobre
 Refatoração de um site implementando recursos de acessibilidade no HTML, CSS e JS.
 ## Recursos de acessibilidade
